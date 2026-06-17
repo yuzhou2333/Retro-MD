@@ -87,7 +87,6 @@ logs/
 # Data files
 data/
 datasets/
-data_bin/
 save_models/
 checkpoints/
 results/
